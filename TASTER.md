@@ -1,6 +1,6 @@
 # Sovereign Compute — Taster
 
-One-command delay-tolerant placement and resume.
+**Jobs keep running when nodes disappear and packets drop.**
 
 ## Run
 ```bash
