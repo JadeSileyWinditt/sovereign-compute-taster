@@ -1,7 +1,10 @@
 # Sovereign Compute — Taster
 
-Controlled taster of delay-tolerant placement and resume.
+**Jobs keep running when nodes disappear and packets drop.**
 
+![Nodes and tracks that survive a missing node](docs/tracks.png)
+
+One command:
 ```bash
 bash setup_and_run.sh
 ```
